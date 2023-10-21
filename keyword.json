@@ -1,0 +1,5 @@
+{
+  "login_test" : "login",
+  "homepage_test" : "homepage",
+  "logout_test" : "logout"
+}
