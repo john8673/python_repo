@@ -1,4 +1,3 @@
-# This is a test for git
 
 import json
 import os
