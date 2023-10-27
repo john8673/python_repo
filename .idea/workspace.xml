@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab9839aa-c654-443e-9080-5897f15da130" name="Changes" comment="sample commit">
-      <change afterPath="$PROJECT_DIR$/Test_Classes/LoginPageTestResults - .html" afterDir="false" />
+    <list default="true" id="ab9839aa-c654-443e-9080-5897f15da130" name="Changes" comment="test results commit">
+      <change beforePath="$PROJECT_DIR$/.idea/Eshwar's sessions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Eshwar_sessions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test_Classes/Login_Page_Test_Class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Classes/Login_Page_Test_Class.py" afterDir="false" />
     </list>
@@ -14,7 +16,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$/Page_Objects_Oct_10_11" userTempatePath="" />
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$/Test_Classes" userTempatePath="" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -35,13 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Automation testing/AT18/Eshwar_sessions"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Automation testing\AT18\Eshwar's sessions" />
@@ -113,7 +116,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Python tests for Login_Page_Test_Class.LoginPageTestCase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Eshwar's sessions" />
+      <module name="Eshwar_sessions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -127,7 +130,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Python tests for Login_Page_Test_Class.LoginPageTestCase.test_facebook_hyperlink_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Eshwar's sessions" />
+      <module name="Eshwar_sessions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -141,7 +144,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Python tests for Login_Page_Test_Class.LoginPageTestCase.test_linkedin_hyperlink_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Eshwar's sessions" />
+      <module name="Eshwar_sessions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -155,7 +158,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Python tests for Login_Page_Test_Class.LoginPageTestCase.test_twitter_hyperlink_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Eshwar's sessions" />
+      <module name="Eshwar_sessions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -169,7 +172,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Python tests for Login_Page_Test_Class.LoginPageTestCase.test_youtube_hyperlink_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Eshwar's sessions" />
+      <module name="Eshwar_sessions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -242,12 +245,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698401615696</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test results commit">
+      <option name="closed" value="true" />
+      <created>1698402226046</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698402226046</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is a test commit from IDE" />
     <MESSAGE value="sample commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="sample commit" />
+    <MESSAGE value="test results commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test results commit" />
   </component>
 </project>
