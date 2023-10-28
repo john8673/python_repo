@@ -1,10 +1,6 @@
 
 import json
-import os
-import time
-
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 import unittest
 
 from Page_Objects_Oct_14_15.Dashboard_Page import Dashboard_Page

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab9839aa-c654-443e-9080-5897f15da130" name="Changes" comment="test results commit">
-      <change beforePath="$PROJECT_DIR$/.idea/Eshwar's sessions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Eshwar_sessions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="ab9839aa-c654-443e-9080-5897f15da130" name="Changes" comment="project commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test_Classes/Login_Page_Test_Class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Classes/Login_Page_Test_Class.py" afterDir="false" />
     </list>
@@ -37,14 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Automation testing/AT18/Eshwar_sessions"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Automation testing/AT18/Eshwar_sessions&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Automation testing\AT18\Eshwar's sessions" />
@@ -253,13 +250,22 @@
       <option name="project" value="LOCAL" />
       <updated>1698402226046</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="project commit">
+      <option name="closed" value="true" />
+      <created>1698419445508</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698419445508</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is a test commit from IDE" />
     <MESSAGE value="sample commit" />
     <MESSAGE value="test results commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test results commit" />
+    <MESSAGE value="project commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="project commit" />
   </component>
 </project>
