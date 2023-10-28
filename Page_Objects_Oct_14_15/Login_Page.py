@@ -1,9 +1,5 @@
 import time
-
-from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions
-from selenium.webdriver.support.wait import WebDriverWait
 
 
 class Login_Page:
@@ -69,7 +65,9 @@ class Login_Page:
         self.login_page_driver.find_element(By.XPATH, self.twitter_hyperlink_locator).click()
         list_of_windows = self.login_page_driver.window_handles
         self.login_page_driver.switch_to.window(list_of_windows[1])
-        WebDriverWait(self.login_page_driver, 10).until(expected_conditions.presence_of_element_located((By.XPATH, "//span[text()='Follow']")))
+        # WebDriverWait(self.login_page_driver, 10).until(expected_conditions.presence_of_element_located
+        # ((By.XPATH, "//span[text()='Follow']")))
+        time.sleep(5)
         if self.login_page_driver.title == "OrangeHRM (@orangehrm) / X":
             return True
 
