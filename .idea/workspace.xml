@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab9839aa-c654-443e-9080-5897f15da130" name="Changes" comment="project commit">
+      <change afterPath="$PROJECT_DIR$/Problems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sep_17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Page_Objects_Oct_14_15/Login_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Page_Objects_Oct_14_15/Login_Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aug_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aug_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oct_14_new_tab.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oct_14_new_tab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sep_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sep_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_problems.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_problems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_py.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,25 +37,136 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2WQJOphUzctAxnblQdXR9ftgutl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Automation testing/AT18/Eshwar_sessions&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Automation testing/AT18/Eshwar_sessions"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Automation testing\AT18\Eshwar's sessions" />
       <recent name="C:\Automation testing\AT18\Eshwar's sessions\Test_Classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for Login_Page_Test_Class.LoginPageTestCase">
+  <component name="RunManager" selected="Python.Sep_16">
+    <configuration name="Oct_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eshwar_sessions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oct_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Oct_14_new_tab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eshwar_sessions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oct_14_new_tab.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sep_16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eshwar_sessions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="password" value="Z@cchaeusPaul@8673" />
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sep_16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sep_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eshwar_sessions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sep_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sep_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eshwar_sessions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="password" value="Comp@86732505" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sep_9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,76 +230,6 @@
       <option name="docutils_open_in_browser" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Login_Page_Test_Class.LoginPageTestCase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Eshwar_sessions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Classes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Login_Page_Test_Class.LoginPageTestCase&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for Login_Page_Test_Class.LoginPageTestCase.test_facebook_hyperlink_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Eshwar_sessions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Classes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Login_Page_Test_Class.LoginPageTestCase.test_facebook_hyperlink_click&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for Login_Page_Test_Class.LoginPageTestCase.test_linkedin_hyperlink_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Eshwar_sessions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Classes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Login_Page_Test_Class.LoginPageTestCase.test_linkedin_hyperlink_click&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for Login_Page_Test_Class.LoginPageTestCase.test_twitter_hyperlink_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Eshwar_sessions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Classes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Login_Page_Test_Class.LoginPageTestCase.test_twitter_hyperlink_click&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for Login_Page_Test_Class.LoginPageTestCase.test_youtube_hyperlink_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Eshwar_sessions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Classes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Login_Page_Test_Class.LoginPageTestCase.test_youtube_hyperlink_click&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,19 +249,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Python tests for Login_Page_Test_Class.LoginPageTestCase.test_facebook_hyperlink_click" />
-      <item itemvalue="Python tests.Python tests for Login_Page_Test_Class.LoginPageTestCase.test_linkedin_hyperlink_click" />
-      <item itemvalue="Python tests.Python tests for Login_Page_Test_Class.LoginPageTestCase.test_twitter_hyperlink_click" />
-      <item itemvalue="Python tests.Python tests for Login_Page_Test_Class.LoginPageTestCase.test_youtube_hyperlink_click" />
-      <item itemvalue="Python tests.Python tests for Login_Page_Test_Class.LoginPageTestCase" />
+      <item itemvalue="Python.Sep_16" />
+      <item itemvalue="Python.Oct_1" />
+      <item itemvalue="Python.Oct_14_new_tab" />
+      <item itemvalue="Python.Sep_3" />
+      <item itemvalue="Python.Sep_9" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for Login_Page_Test_Class.LoginPageTestCase" />
-        <item itemvalue="Python tests.Python tests for Login_Page_Test_Class.LoginPageTestCase.test_youtube_hyperlink_click" />
-        <item itemvalue="Python tests.Python tests for Login_Page_Test_Class.LoginPageTestCase.test_twitter_hyperlink_click" />
-        <item itemvalue="Python tests.Python tests for Login_Page_Test_Class.LoginPageTestCase.test_facebook_hyperlink_click" />
-        <item itemvalue="Python tests.Python tests for Login_Page_Test_Class.LoginPageTestCase.test_linkedin_hyperlink_click" />
+        <item itemvalue="Python.Sep_16" />
+        <item itemvalue="Python.Sep_9" />
+        <item itemvalue="Python.Sep_3" />
+        <item itemvalue="Python.Oct_1" />
+        <item itemvalue="Python.Oct_14_new_tab" />
       </list>
     </recent_temporary>
   </component>
@@ -266,10 +314,19 @@
       <option name="project" value="LOCAL" />
       <updated>1698485133450</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="project commit">
+      <option name="closed" value="true" />
+      <created>1698485333603</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698485333603</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="This is a test commit from IDE" />
     <MESSAGE value="sample commit" />
     <MESSAGE value="test results commit" />

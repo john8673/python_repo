@@ -1,7 +1,7 @@
 class Parent:
 
     def __init__(self):
-       print("This is parent constructor")
+        print("This is parent constructor")
     #
     # def _house(self):
     #     return "This is parents house"
@@ -23,18 +23,18 @@ class Child(Parent):
         super().__init__()
         print("This is Child constructor")
 
+
 class GrandChild(Child):
 
     def __init__(self):
         super().__init__()
         print("This is GrandChild constructor")
 
+
 object1 = Child()
 object2 = Parent()
 x = issubclass(GrandChild, Parent)
 print(x)
-
-
 
 # object1 = Child()
 # object1._house()

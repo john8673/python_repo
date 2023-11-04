@@ -22,9 +22,4 @@
 # else:
 #     print("no")
 
-a = input()
-b = list(map(int, a.split()))
-c = b[0]
-d = b[1]
-
 

@@ -10,10 +10,7 @@ chrome_driver.implicitly_wait(20)
 chrome_driver.get("https://demo.automationtesting.in/Windows.html")
 
 chrome_driver.find_element(By.XPATH, "//button[text()='    click   ']").click()
-time.sleep(5)
-print(chrome_driver.title)
 list_of_tabs = chrome_driver.window_handles
-print(list_of_tabs)
 window_frames = list_of_tabs[0]
 window_selenium = list_of_tabs[1]
 chrome_driver.switch_to.window(window_selenium)
@@ -21,6 +18,4 @@ print(chrome_driver.title)
 time.sleep(5)
 chrome_driver.switch_to.window(window_frames)
 print(chrome_driver.title)
-chrome_driver.back()
-chrome_driver.forward()
 
